@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\bin\Debug\netcoreapp3.1\Cs  exception handling.exe
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\bin\Debug\netcoreapp3.1\Cs  exception handling.deps.json
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\bin\Debug\netcoreapp3.1\Cs  exception handling.runtimeconfig.json
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\bin\Debug\netcoreapp3.1\Cs  exception handling.runtimeconfig.dev.json
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\bin\Debug\netcoreapp3.1\Cs  exception handling.dll
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\bin\Debug\netcoreapp3.1\Cs  exception handling.pdb
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\obj\Debug\netcoreapp3.1\Cs  exception handling.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\obj\Debug\netcoreapp3.1\Cs  exception handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\obj\Debug\netcoreapp3.1\Cs  exception handling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\obj\Debug\netcoreapp3.1\Cs  exception handling.AssemblyInfo.cs
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\obj\Debug\netcoreapp3.1\Cs  exception handling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\obj\Debug\netcoreapp3.1\Cs  exception handling.dll
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\obj\Debug\netcoreapp3.1\Cs  exception handling.pdb
+C:\Users\User\source\repos\Cs  exception handling\Cs  exception handling\obj\Debug\netcoreapp3.1\Cs  exception handling.genruntimeconfig.cache
